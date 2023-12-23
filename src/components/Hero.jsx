@@ -18,14 +18,14 @@ const Hero = () => {
           Github
         </button>
       </nav>
-      <h1 className='head_text'>
-          Summarize Articles with <br className='max-md:hidden'/>
-          <span className='orange_gradient'>OpenAI GPT-4</span>
+      <h1 className='head_text font-paytone'>
+          Simplify complexity with our<br className='max-md:hidden'/>
+          <span className='orange_gradient'>OpenAI Summarizer</span>
       </h1>
-      <h2 className='desc'>
-          simplify your reading with summarize, an open-souce article 
-          summarizer that transforms lengthy articles into lear and 
-          concise summaries
+      <h2 className='desc font-inter'>
+          Elevate your content comprehension effortlessly with
+          our OpenAI Summarizer, dilivering instant and leveraging the intelligence
+          of OpenAi for sharp, concise content distillation.
       </h2>
     </header>
   )
