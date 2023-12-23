@@ -1,4 +1,4 @@
-# OpenAI AI Summarizer
+# Sommarizer
 
 This repository contains a web application built with ReactJS, Redux Toolkit, and Tailwind CSS that leverages the OpenAI API through Rapid API for text summarization.
 
@@ -15,7 +15,7 @@ This repository contains a web application built with ReactJS, Redux Toolkit, an
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/john-shaibu/ai-summarizer.git`
+1. Clone the repository: `git clone https://github.com/john-shaibu/sommarizer.git`
 2. Navigate to the project directory: `cd your-repository`
 3. Install dependencies: `npm install`
 4. Obtain your Rapid API key and configure it in the application.
